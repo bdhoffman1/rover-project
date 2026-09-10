@@ -21,7 +21,9 @@ Working on an active multi-member assembly required systematic CAD management an
 * **Packaging & Clearances:** Adjusted internal mounting interfaces to provide adequate clearance for electronics, wiring harnesses, and battery units.
 * **Collaborative Updates:** Managed revision updates with teammates to prevent cross-component interference during rapid design iterations.
 
-*(Tip: Drag and drop an image or render of your SolidWorks rover assembly here)*
+<img width="1776" height="1202" alt="RoughSketch1" src="https://github.com/user-attachments/assets/1ce069b4-5165-47e9-98af-170034eba3e9" />
+
+<img width="1487" height="996" alt="Rover Inittial Assembly" src="https://github.com/user-attachments/assets/67548336-a7eb-4e6a-9e12-3a82a5692bfd" />
 
 ---
 
@@ -32,8 +34,6 @@ To transition the rover from digital CAD to a physical prototype efficiently, ke
 1. **Print Optimization:** Oriented geometry to minimize support material requirements and reduce build failures during 3D printing runs.
 2. **Fastener & Mount Access:** Repositioned hardware mounting cutouts to allow standard hand tool access during physical fabrication and teardown.
 3. **Weight & Material Savings:** Removed unneeded bulk from non-load-bearing structural parts without sacrificing frame rigidity.
-
-*(Tip: Insert a picture of a 3D-printed rover part or the fully assembled rover chassis here)*
 
 ---
 
