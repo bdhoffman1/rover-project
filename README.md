@@ -39,6 +39,6 @@ To transition the rover from digital CAD to a physical prototype efficiently, ke
 
 ##  Tools & Technologies Used
 
-* **CAD / Modeling:** SolidWorks (Part & Assembly Modeling), Geometric Mating, Clearance Checking[cite: 1]
-* **Manufacturing & Prototyping:** Design for Additive Manufacturing (DFAM), FDM 3D Printing, Mechanical Assembly[cite: 1]
-* **Collaboration & Documentation:** Technical Drawings, Interdisciplinary Team Coordination[cite: 1]
+* **CAD / Modeling:** SolidWorks (Part & Assembly Modeling), Geometric Mating, Clearance Checking
+* **Manufacturing & Prototyping:** Design for Additive Manufacturing (DFAM), FDM 3D Printing, Mechanical Assembly
+* **Collaboration & Documentation:** Technical Drawings, Interdisciplinary Team Coordination
